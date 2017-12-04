@@ -10,9 +10,12 @@ numbers that are easy to understand and remember.
 
 .. only:: Partners
 
- A course title and number are required to create an About page. You enter your
- course title and number in Publisher. For more information, see
- :ref:`Pub Creating a Course`.
+ A course title and number are required to create an About page.
+
+ * For courses on edx.org, you enter this information in Publisher.
+   For more information, see :ref:`Pub Creating a Course`.
+ * For courses on Edge, you enter this information in Studio. For more
+   information, see :ref:`Creating a New Course`.
 
 .. only:: Open_edX
 
@@ -50,6 +53,12 @@ When you determine the title of your course, consider the following guidelines.
 
  For information about how to add your course title, see
  :ref:`Creating a New Course`.
+
+.. note::
+  The title that you specify when you create your course becomes part of the
+  course URL. The course URL cannot be changed. However, if you want to change
+  the way that your course title appears in Studio and the LMS, see
+  :ref:`Change the Course Title`.
 
 ======================
 Example Course Titles
@@ -90,6 +99,12 @@ Course numbers have the following guidelines.
 
  For information about how to add your course number, see
  :ref:`Creating a New Course`.
+
+.. note::
+  The number that you specify when you create your course becomes part of the
+  course URL. The course URL cannot be changed. However, if you want to change
+  the way that your course number appears in Studio and the LMS, see
+  :ref:`Change the Course Number`.
 
 ======================
 Example Course Numbers
