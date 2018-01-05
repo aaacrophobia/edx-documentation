@@ -1,7 +1,7 @@
-.. _Enable Discussion Notifications:
+.. _Enabling Discussion Notifications:
 
 ##########################################
-Enable Discussion Notifications
+Enabling Discussion Notifications
 ##########################################
 
 You can set up notifications that learners receive the first time that anyone
@@ -13,6 +13,8 @@ For more information, see :ref:`opencoursestaff:ADD_REFERENCE` and
 .. contents::
    :depth: 1
    :local:
+
+.. _Enable Discussion Notifications:
 
 *******************************
 Enable Discussion Notifications
