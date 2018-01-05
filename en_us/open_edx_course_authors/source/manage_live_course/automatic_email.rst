@@ -4,58 +4,40 @@
 Automatic Email Messages from the Open edX Platform
 ###################################################
 
-.. Note: Any update to the **discussion notification** information should also
-.. be made to the manage_live_course/automatic_email.rst file in the partner
-.. course authors guide.
+.. Currently (5 January 2018), edx.org sends several different automatic
+.. messages to learners. Those messages are listed in the partner version of
+.. this topic. Open edX only sends discussion notifications. This topic was
+.. created to mirror the partner topic and to provide a place to add any
+.. additional messages that become available on Open edX.
 
-To help learners become and remain engaged in a course, edX sends several types
-of automatic email messages.
+.. Any update to this information should also be made to the
+.. manage_live_course/automatic_email.rst file in the partner course authors
+.. guide.
 
-.. list-table::
- :widths: 20 10 20 50
- :header-rows: 1
 
- * - Email Type
-   - Course Pacing
-   - Day Sent
-   - Description
- * - :ref:`Discussion Notification`
-   - Instructor-paced and self-paced
-   - Unspecified
-   - Notifications that a user has responded to a post on a discussion.
+To help learners become and remain engaged in a course, the Open edX platform
+can send automatic email messages that notify learners of responses to
+discussion posts.
+
+.. note::
+  Before the system can send automatic email messages for any courses, a system
+  administrator must enable automatic messages on the instance of the Open edX
+  platform. For more information, see :ref:`installation:Enable Discussion
+  Notifications`.
 
 *****************************
 Automatic Email Message Text
 *****************************
 
-The following example messages show the text of the email messages that edX
-sends to learners automatically.
-
-.. contents::
- :local:
- :depth: 1
-
-.. A SYSADMIN HAS TO ENABLE THIS IN DJANGO
-.. A SYSADMIN HAS TO ENABLE THIS IN DJANGO
-.. A SYSADMIN HAS TO ENABLE THIS IN DJANGO
-.. A SYSADMIN HAS TO ENABLE THIS IN DJANGO
-.. A SYSADMIN HAS TO ENABLE THIS IN DJANGO
-
-.. _Discussion Notification:
-
-================================
-Discussion Notification
-================================
-
 After a learner or course team member creates a post in the course discussions,
-edX sends the following email message the first time a learner or course team
-member replies to the original post.
+the platform sends the following email message the first time a learner or
+course team member replies to the original post.
 
 ::
 
   Subject: Response to <title of post>
 
-  <edX username> replied to <title of post>:
+  <username> replied to <title of post>:
 
     <text of comment>
 
@@ -65,5 +47,5 @@ to the discussion post.
 EdX does not send individual messages for any additional replies on the post.
 However, the learner automatically receives a daily digest email message that
 summarizes additional activity on the post. For more information, see
-:ref:`learners:Receiving Discussion Notifications` and
-:ref:`learners:Receiving Daily Digests`.
+:ref:`openlearners:Receiving Discussion Notifications` and
+:ref:`openlearners:Receiving Daily Digests`.

@@ -7,8 +7,9 @@ Enabling Discussion Notifications
 You can set up notifications that learners receive the first time that anyone
 adds a response to a discussion post that they have made.
 
-For more information, see :ref:`opencoursestaff:ADD_REFERENCE` and
-:ref:`openlearners:ADD_REFERENCE`.
+For more information, including the text of the discussion notification
+message, see :ref:`opencoursestaff:Automatic Email` and
+:ref:`openlearners:Receiving Discussion Notifications`.
 
 .. contents::
    :depth: 1
