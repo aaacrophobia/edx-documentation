@@ -26,7 +26,7 @@ you need the following items.
 
 * edX Automated Communication Engine (ACE). For more information about how to
   install and configure ACE, see `edX Automated Communication Engine`_.
-* A third-party email client, such as Sailthru. For information about how to
+* A third party email client, such as Sailthru. For information about how to
   configure your email client, see the documentation for the client.
 
 .. _Enable Discussion Notifications:
