@@ -15,14 +15,29 @@ message, see :ref:`opencoursestaff:Automatic Email` and
    :depth: 1
    :local:
 
+.. _Obtain Discussion Notification Requirements:
+
+*******************************************
+Obtain Discussion Notification Requirements
+*******************************************
+
+To create discussion notifications for your instance of the Open edX platform,
+you need the following items.
+
+* edX Automated Communication Engine (ACE). For more information about how to
+  install and configure ACE, see `edX Automated Communication Engine`_.
+* A third-party email client, such as Sailthru. For information about how to
+  configure your email client, see the documentation for the client.
+
 .. _Enable Discussion Notifications:
 
 *******************************
 Enable Discussion Notifications
 *******************************
 
-To enable discussion notifications for all courses in your Open edX instance,
-follow these steps.
+After you have set up ACE and the third party email client, you enable
+discussion notifications in the Django administration console for your instance
+of Open edX.
 
 #. Sign in to the LMS Django administration console for your base URL. For
    example, ``http://{your_URL}/admin``.

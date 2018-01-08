@@ -44,8 +44,8 @@ course team member replies to the original post.
 The message also contains a **View discussion** option that takes the learner
 to the discussion post.
 
-EdX does not send individual messages for any additional replies on the post.
-However, the learner automatically receives a daily digest email message that
-summarizes additional activity on the post. For more information, see
-:ref:`openlearners:Receiving Discussion Notifications` and
+The platform does not send individual messages for any additional replies on
+the post. However, the learner automatically receives a daily digest email
+message that summarizes additional activity on the post. For more information,
+see :ref:`openlearners:Receiving Discussion Notifications` and
 :ref:`openlearners:Receiving Daily Digests`.
