@@ -44,13 +44,21 @@ various reasons, including the following reasons.
 * Some courses include content that has prerequisite sections. Prerequisite
   sections require that you complete other, previous sections before they
   become available. The course team sets a minimum score that you must earn in
-  the problems of a prerequisite section in order to display the following
-  sections.
+  the problems of a prerequisite section in order to proceed to the following
+  section. If a section has a prerequisite, the course outline displays that
+  section with a locked icon, and you cannot open that section until you have
+  fulfilled the prerequisite requirement. After you have fulfilled the
+  prerequisite, that section is displayed with an unlocked icon, and you can
+  open and complete that section.
+
+  .. image:: ../../shared/images/lms-unlocked-content.png
+    :width: 438
+    :alt: A course section with a prerequisite that has been fulfilled.
 
 Not all courses include scheduled course content or prerequisites. Your course
 might display all of the course content on the **Course** page as soon as the
 course starts.
 
 If you do not see the course content that you expect, you can check for
-information about the course schedule and content prerequisites in updates on
-the **Course** page, or you can ask questions in the course discussions.
+information about the course schedule in updates on the **Course** page, or
+you can ask questions in the course discussions.
