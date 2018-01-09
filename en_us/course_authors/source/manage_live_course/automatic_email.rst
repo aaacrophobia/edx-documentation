@@ -49,7 +49,8 @@ of automatic email messages.
  * - :ref:`Discussion Notification`
    - Instructor-paced and self-paced
    - Unspecified
-   - Notifications that a user has responded to a post on a discussion.
+   - Notifications that a user has responded to a post on a :ref:`course
+     discussion<Managing Discussions Index>`.
 
 *****************************
 Automatic Email Message Text

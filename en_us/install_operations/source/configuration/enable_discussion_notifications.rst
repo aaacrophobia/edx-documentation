@@ -15,11 +15,11 @@ message, see :ref:`opencoursestaff:Automatic Email` and
    :depth: 1
    :local:
 
-.. _Obtain Discussion Notification Requirements:
+.. _Requirements for Discussion Notifications:
 
-*******************************************
-Obtain Discussion Notification Requirements
-*******************************************
+*****************************************
+Requirements for Discussion Notifications
+*****************************************
 
 To create discussion notifications for your instance of the Open edX platform,
 you need the following items.
