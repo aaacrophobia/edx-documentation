@@ -41,8 +41,9 @@ various reasons, including the following reasons.
   passed, or after the end date of a self-paced course, the assignment might
   no longer be available.
 
-* Some course sections may have a prerequisite section that you must complete
-  before you can view that section. For more information, see :ref:`section_prereq`.
+* Some course sections might have a prerequisite section that you must complete
+  before you can access that section. For more information, see
+  :ref:`section_prereq`.
 
 Not all courses include scheduled course content or prerequisites. Your course
 might display all of the course content on the **Course** page as soon as the
@@ -58,15 +59,15 @@ you can ask questions in the course discussions.
 Course Content Can Have Prerequisites
 *************************************
 
-Some courses include content that have prerequisite sections. A section
-with a prerequisite requires that you complete another, previous section
-before it becomes available. The course team sets a minimum score that you
-must earn in the problems of a prerequisite section in order to proceed to the
-following section. If a section has a prerequisite, the course outline
-displays that section with a locked icon, and you cannot open that section
-until you have fulfilled the prerequisite requirement. A section that is a
-prequisite is also marked to let you know that you must complete it before
-you can proceed to the section for which is is a prequisite.
+Some courses include content that has prerequisite sections. A section with a
+prerequisite requires that you complete another, previous section before it
+becomes available. The course team sets a minimum score that you must earn in
+a prerequisite section before you can proceed to the following section. If a
+section has a prerequisite, the course outline displays that section with a
+lock icon, and you cannot open that section until you have fulfilled the
+prerequisite requirement. A section that is a prequisite is also marked to let
+you know that you must complete it before you can proceed to the section for
+which is is a prequisite.
 
 When you visit a section that has an unfulfilled prerequisite, the section
 page displays a "Content Locked" message that describes the prerequisite.
@@ -75,8 +76,9 @@ page displays a "Content Locked" message that describes the prerequisite.
     :width: 600
     :alt: A course section with a prerequisite that has not been fulfilled.
 
-After you have fulfilled the prerequisite, that section is displayed in the
-course outline with an unlocked icon, and you can open and complete that section.
+After you have fulfilled a section's prerequisite, the section is displayed in
+the course outline with an unlocked icon, and you can open and complete that
+section.
 
   .. image:: ../../shared/images/lms-unlocked-content.png
     :width: 438

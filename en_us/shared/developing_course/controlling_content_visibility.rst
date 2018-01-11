@@ -200,9 +200,8 @@ Prerequisite Course Subsections
 
 You can lock subsections of your course until learners complete other,
 prerequisite subsections. If a subsection has a prerequisite, it is displayed
-in the course outline with a locked icon and the learner cannot view the
-subsection content, until the learner has earned a minimum score in
-the prerequisite subsection.
+in the course outline with a lock icon and learners cannot view the subsection
+content, until they have earned a minimum score in the prerequisite subsection.
 
 .. note::
 
