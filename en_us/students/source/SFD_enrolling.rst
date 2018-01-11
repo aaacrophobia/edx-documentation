@@ -40,7 +40,7 @@ you should understand these concepts.
 .. contents::
   :local:
   :depth: 1
-
+  
 
 .. _Course Availability:
 
@@ -80,6 +80,45 @@ times that the course is offered, and enroll in any of the available times.
 
 For more information, see :ref:`course start dates<Start Date and Duration>`
 and :ref:`course pacing<SFD Course Pacing>`.
+
+
+.. _Course Sessions:
+
+============================
+Course Sessions
+============================
+
+In some programs, courses offer multiple sessions and the ability to change
+between sessions. For these courses, on the **Courses** and **Programs** pages
+of your dashboard, after you enroll in the course, you have options to select a
+session, change to a different session, or leave a session. You must select a
+session before you can access the course.
+
+For courses that offer multiple sessions, be aware of the following timeframes.
+
+* If you were already enrolled in the audit track of a course and you purchase
+  the verified track as part of a program purchase, we automatically enroll you
+  in the verified track for the course, in the current session. You can change
+  to a different session if the one we enrolled you in does not work for you.
+
+* After you join a course session (including if we automatically add you to a
+  session as a result of your course purchase), you can change to another
+  session or leave the session and wait to join a later session, within 14 days
+  of the course start date or the date that you joined the session, whichever is
+  later. Leaving a session is not the same as unenrolling from the course. If
+  the current session does not work for you, you can leave a session and wait to
+  decide on joining a later session of the course.
+
+* After you purchase the verified track for a course, you have 15 months from
+  the date of purchase to join a course session. After 15 months, if you have
+  not joined a session, your purchase expires, and you can no longer access the
+  course.
+
+* Within 60 days from the date of purchase, you can unenroll from the course
+  entirely and get a refund of your course purchase, as long as you have not
+  been in a course session for more than 14 days. If the refund eligibility
+  period has passed (meaning that you will not receive a refund when you
+  unenroll), the unenroll option is not available.
 
 
 .. _Enrollment Tracks:
@@ -349,6 +388,14 @@ listed on the **Programs** page on your learner dashboard. Select the card for
 the program to go to a page that has more information about the program. On
 this page, you can view your progress through the program, enroll in more of
 the program's courses, and view any certificates that you have earned.
+
+.. note:: In some programs, courses offer multiple sessions and the ability to
+   change between sessions. For these courses, on the **Courses** and
+   **Programs** pages of your dashboard, after you enroll in the course, you
+   have options to select a session, change to a different session, or leave a
+   session. You must select a session before you can access the course.
+
+   For more information about course sessions, see :ref:`Course Sessions`.
 
 
 .. _Unenroll from a Course:
