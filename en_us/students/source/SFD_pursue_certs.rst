@@ -32,9 +32,9 @@ If you pay for the verified track for courses in a program, you are enrolled
 directly in the verified track for these courses, and can earn a certificate
 when you pass the courses with the required grade.
 
-.. note:: In some programs, courses offer multiple sessions and the ability to
-   change between sessions. For these courses, on the **Courses** and
-   **Programs** pages of your dashboard, after you enroll in the course, you
+.. note:: In some programs, courses offer multiple sessions to select from, and
+   the ability to change between sessions. For these courses, on the **Courses**
+   and **Programs** pages of your dashboard, after you enroll in the course, you
    have options to select a session, change to a different session, or leave a
    session. You must select a session before you can access the course.
 
