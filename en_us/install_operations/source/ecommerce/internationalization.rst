@@ -2,8 +2,7 @@ Internationalization
 ====================
 Follow the `internationalization coding guidelines`_ in the edX Developer's Guide when developing new features.
 
-Languages are enabled in
-the settings file, for example in ``ecommerce/settings/base.py``
+Languages are enabled in the settings file, for example in ``ecommerce/settings/base.py``
 
 .. code-block:: python
 
@@ -13,6 +12,7 @@ the settings file, for example in ``ecommerce/settings/base.py``
     ('es-419', _('Spanish (Latin American)')),
   )
 
+More details can be found in the `Django documentation for Language`_.
 
 .. _Ecommerce Language Negotiation:
 
@@ -72,3 +72,6 @@ If a language fetched from the cookie cannot be found in PAYPAL_LOCALES, the LAN
 .. _internationalization coding guidelines: http://edx.readthedocs.io/projects/edx-developer-guide/en/latest/conventions/internationalization/i18n.html
 .. _Django's Locale Middleware: https://docs.djangoproject.com/en/2.0/topics/i18n/translation/#how-django-discovers-language-preference
 .. _PayPal's country to language mapping: https://developer.paypal.com/docs/classic/api/locale_codes/
+.. _Django documentation for Language: https://docs.djangoproject.com/en/2.0/ref/settings/#languages
+
+
